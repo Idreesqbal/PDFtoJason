@@ -1,14 +1,5 @@
 # Text extraction
 
-- Repository: `NLP`
-- Type of Challenge: `use case`
-- Duration: `9 days`
-- Deadline: `05/03/2021`
-- Deployment strategy :
-	 Github page
-	 ppt (or alternative) presentation
-- Team challenge : `4 people`
-
 ## Mission objectives 
 
 - to preprocess textual data
